@@ -1,5 +1,3 @@
-// Add your code here
-
 function submitData(name, email) {
   const config = {
     method: "POST",
